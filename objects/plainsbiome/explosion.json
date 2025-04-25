@@ -1,0 +1,165 @@
+{
+  "animations": {
+    "default": {
+      "oneshot": true,
+      "frames": [
+        {
+          "duration": 100,
+          "offset": {
+            "x": 39,
+            "y": 43
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 1,
+            "width": 17,
+            "height": 17
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 21,
+            "y": 26
+          },
+          "rectangle": {
+            "x": 20,
+            "y": 1,
+            "width": 52,
+            "height": 52
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 15,
+            "y": 17
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 121,
+            "width": 65,
+            "height": 67
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 14,
+            "y": 17
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 188,
+            "width": 65,
+            "height": 66
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 6,
+            "y": 8
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 471,
+            "width": 80,
+            "height": 78
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 6,
+            "y": 5
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 715,
+            "width": 82,
+            "height": 84
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 4
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 632,
+            "width": 85,
+            "height": 81
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 4
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 551,
+            "width": 84,
+            "height": 79
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 4
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 394,
+            "width": 83,
+            "height": 75
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 2
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 323,
+            "width": 82,
+            "height": 69
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 1
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 255,
+            "width": 81,
+            "height": 66
+          }
+        },
+        {
+          "duration": 100,
+          "offset": {
+            "x": 3,
+            "y": 0
+          },
+          "rectangle": {
+            "x": 1,
+            "y": 55,
+            "width": 81,
+            "height": 64
+          }
+        }
+      ]
+    }
+  }
+}

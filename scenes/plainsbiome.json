@@ -6,6 +6,10 @@
       "name": "henrique",
       "kind": "henrique",
       "action": "default"
+    },
+    {
+      "name": "explosion",
+      "kind": "explosion"
     }
   ]
 }
